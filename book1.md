@@ -1,5 +1,11 @@
 #  **Hotel Booking Cancellation Analysis Dashboard**
 
+
+![Hotel Booking Dashboard](picture/dashboard.png)
+
+
+
+
 ##  Project Overview
 
 This project presents a comprehensive analysis of hotel booking cancellations using Excel. The goal is to uncover trends, patterns, and insights behind booking behaviors and cancellation rates, visualized through a dynamic and interactive dashboard.
